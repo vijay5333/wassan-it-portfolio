@@ -14,6 +14,7 @@ import {
   SiJavascript,
   SiMongodb,
   SiNodedotjs,
+  SiCsharp,
 } from "react-icons/si";
 import { DiCss3 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
