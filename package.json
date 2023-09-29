@@ -19,7 +19,8 @@
     "vite": "^4.4.9"
   },
   "devDependencies": {
-    "@babel/runtime": "7.13.8"
+    "@babel/runtime": "7.13.8",
+    "node-gyp": "^9.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
