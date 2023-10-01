@@ -17,7 +17,7 @@ export const About = () => {
     <>
       <div className="about center">
         <h1 data-aos="fade-right" className="mobileHead">
-          <span className="about__name">Wassan</span>
+          <span className="about__name">Wassan-IT</span>
         </h1>
         <Type />
         {/* <p className="about__desc" data-aos="fade-right">
