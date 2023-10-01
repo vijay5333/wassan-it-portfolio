@@ -15,6 +15,9 @@ import {
   SiMongodb,
   SiNodedotjs,
   SiCsharp,
+  SiMysql,
+  SiMicrosoftazure,
+  SiPhp,
 } from "react-icons/si";
 import { DiCss3 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
@@ -27,14 +30,6 @@ export const Projects = () => {
         <div className="allProjects">
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="https://i.ibb.co/V9C8Jm9/rockstar-games.png"
-                    alt="Rockstar Games"
-                  />
-                </div>
-              </div>
               <div className="project_information">
                 <h2>Clap</h2>
                 <p>
@@ -44,6 +39,8 @@ export const Projects = () => {
                 </p>
                 <div>
                   <SiCsharp />
+                  <SiMysql />
+                  <SiMicrosoftazure />
                 </div>
                 <div>
                   <a
@@ -61,14 +58,6 @@ export const Projects = () => {
           </div>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="https://i.ibb.co/V9C8Jm9/rockstar-games.png"
-                    alt="Rockstar Games"
-                  />
-                </div>
-              </div>
               <div className="project_information">
                 <h2>Jiwi Daah Hasa</h2>
                 <p>
@@ -77,11 +66,9 @@ export const Projects = () => {
                   their store website.
                 </p>
                 <div>
-                  <SiNodedotjs />
-                  <SiExpress />
-                  <SiMongodb />
-                  <FaReact />
-                  <SiMaterialui />
+                  <SiCsharp />
+                  <SiMysql />
+                  <SiMicrosoftazure />
                 </div>
                 <div>
                   <a
@@ -99,14 +86,6 @@ export const Projects = () => {
           </div>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/branding/dropbox-logo@2x.jpg"
-                    alt=""
-                  />
-                </div>
-              </div>
               <div className="project_information">
                 <h2>Odisha Millet Mission(OMM)</h2>
                 <p>
@@ -115,9 +94,9 @@ export const Projects = () => {
                   respective places.
                 </p>
                 <div>
-                  <SiNodedotjs />
-                  <SiExpress />
-                  <SiMongodb />
+                  <SiPhp />
+                  <SiMysql />
+                  <SiMicrosoftazure />
                 </div>
                 <div>
                   <a
@@ -135,14 +114,6 @@ export const Projects = () => {
           </div>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="https://i.ibb.co/KVBGkdy/FFD69103-C304-42-E8-BCCD-8836-AAEFEA9-C.jpg"
-                    alt="PulsePlus-Clone"
-                  />
-                </div>
-              </div>
               <div className="project_information">
                 <h2>Integrated Farming</h2>
                 <p>
@@ -150,9 +121,9 @@ export const Projects = () => {
                   Medicines and Consult to Doctor and Book a near Testlab.
                 </p>
                 <div>
-                  <DiCss3 />
-                  <SiHtml5 />
-                  <IoLogoJavascript />
+                  <SiPhp />
+                  <SiMysql />
+                  <SiMicrosoftazure />
                 </div>
                 <div>
                   <a
@@ -170,14 +141,6 @@ export const Projects = () => {
           </div>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
-                    src="https://i.ibb.co/MPzWN49/weather-app.png"
-                    alt="Sk-Weather-App"
-                  />
-                </div>
-              </div>
               <div className="project_information">
                 <h2>Savya</h2>
                 <p>
@@ -186,6 +149,8 @@ export const Projects = () => {
                   respective places.
                 </p>
                 <div>
+                  <FaReact />
+                  <SiMaterialui />
                   <DiCss3 />
                   <SiHtml5 />
                   <IoLogoJavascript />
@@ -206,11 +171,6 @@ export const Projects = () => {
           </div>
           <div className="projects_container" data-aos="fade-right">
             <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img src="https://i.ibb.co/M2qW7xL/apijs-npm.png" alt="" />
-                </div>
-              </div>
               <div className="project_information">
                 <h2>Seed Portal</h2>
                 <p>
@@ -219,9 +179,9 @@ export const Projects = () => {
                   respective places.
                 </p>
                 <div>
-                  <SiNodedotjs />
-                  <SiExpress />
-                  <SiMongodb />
+                  <SiCsharp />
+                  <SiMysql />
+                  <SiMicrosoftazure />
                 </div>
                 <div>
                   <a

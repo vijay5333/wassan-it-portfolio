@@ -3,10 +3,11 @@ import React from "react";
 const Services = () => {
   return (
     <>
+      <h2 className="section__title different">Services</h2>
       <div id="cards_landscape_wrap-2">
         <div className="container-fluid">
-          <div className="row">
-            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-2">
+          <div className="row d-flex">
+            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-6">
               <a href="">
                 <div className="card-flyer">
                   <div className="text-box">
@@ -28,7 +29,7 @@ const Services = () => {
                 </div>
               </a>
             </div>
-            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-6">
               <a href="">
                 <div className="card-flyer">
                   <div className="text-box">
@@ -50,7 +51,7 @@ const Services = () => {
                 </div>
               </a>
             </div>
-            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-6">
               <a href="">
                 <div className="card-flyer">
                   <div className="text-box">
@@ -73,7 +74,7 @@ const Services = () => {
                 </div>
               </a>
             </div>
-            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-6">
               <a href="">
                 <div className="card-flyer">
                   <div className="text-box">
