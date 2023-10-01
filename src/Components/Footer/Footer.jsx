@@ -32,8 +32,11 @@ export const Footer = () => {
           <div className="footer-bottom">
             {/* Copyright or additional information */}
             <p>
-              &copy; {new Date().getFullYear()} My Portfolio. All rights
-              reserved.
+              &copy; {new Date().getFullYear()}
+              <a target="_blank" href="https://wassan.org">
+                Wassan
+              </a>
+              . All rights reserved.
             </p>
           </div>
         </div>
