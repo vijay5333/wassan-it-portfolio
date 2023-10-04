@@ -13,12 +13,12 @@ const Services = () => {
                   <div className="text-box">
                     <div className="image-box">
                       <img
-                        src="https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg"
+                        src="https://img.freepik.com/free-vector/mobile-ui-illustration-smartphone-user-interface-ux-applications-display_33099-546.jpg?w=826&t=st=1696158102~exp=1696158702~hmac=bd6288d65ec3b4979ff25346a98e4dc4390113c2efb2ef5842d530e3e2ef1aa8"
                         alt=""
                       />
                     </div>
                     <div className="text-container">
-                      <h6>Title 01</h6>
+                      <h6>Service</h6>
                       <p>
                         Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
@@ -35,12 +35,12 @@ const Services = () => {
                   <div className="text-box">
                     <div className="image-box">
                       <img
-                        src="https://cdn.pixabay.com/photo/2018/04/09/19/55/low-poly-3305284_960_720.jpg"
+                        src="https://img.freepik.com/free-vector/marketing-strategy-icon-with-magnifier-growing-bars-computer-monitor-isometric_1284-63093.jpg?size=626&ext=jpg&ga=GA1.2.2123479560.1687758943&semt=ais"
                         alt=""
                       />
                     </div>
                     <div className="text-container">
-                      <h6>Title 02</h6>
+                      <h6>Service</h6>
                       <p>
                         Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
@@ -57,13 +57,13 @@ const Services = () => {
                   <div className="text-box">
                     <div className="image-box">
                       <img
-                        src="https://cdn.pixabay.com/photo/2018/04/06/13/46/poly-3295856_960_720.png"
+                        src="https://img.freepik.com/free-photo/expert-engineer-designs-complex-circuit-board-connections-generated-by-ai_188544-24553.jpg"
                         alt=""
                       />
                     </div>
 
                     <div className="text-container">
-                      <h6>Title 03</h6>
+                      <h6>Service</h6>
                       <p>
                         Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
@@ -80,12 +80,12 @@ const Services = () => {
                   <div className="text-box">
                     <div className="image-box">
                       <img
-                        src="https://cdn.pixabay.com/photo/2018/03/30/15/12/dog-3275593_960_720.jpg"
+                        src="https://img.freepik.com/premium-vector/3d-white-clipboard-task-management-todo-check-list-pink-background-efficient-work-project-plan-concept-assignment-exam-productivity-solution-icon-3d-icon-vector-render-illustration_412828-1443.jpg?size=626&ext=jpg&ga=GA1.1.2123479560.1687758943&semt=ais"
                         alt=""
                       />
                     </div>
                     <div className="text-container">
-                      <h6>Title 04</h6>
+                      <h6>Service</h6>
                       <p>
                         Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
